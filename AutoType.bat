@@ -1,6 +1,6 @@
 @echo off
 rem (c) missssssssi-ms All Rights Reserved.
-rem AutoType V1
+rem AutoType V3
 echo 自動タイピング秒数を指定してください。
 set time=
 set /p time="時間(秒):"
